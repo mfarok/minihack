@@ -1,0 +1,28 @@
+/{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: white;
+} 
+
+
+#banao{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#centerkitaraf{
+    justify-content: center;
+    align-items: center;
+}
+
+.yebana{
+    background-color: rgb(218, 213, 213);
+    font-weight: bolder;
+}
+.lightgreen{
+
+    background-color: lightgreen;
+}
